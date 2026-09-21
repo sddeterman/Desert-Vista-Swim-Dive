@@ -1,3 +1,4 @@
+export const metadata={title:"2026 Schedule",description:"2026 Desert Vista Swim & Dive meet schedule, locations and qualifier events.",alternates:{canonical:"/schedule"},openGraph:{url:"/schedule"}};
 const meets=[
 ["Sep 3","4:00 PM","Millennium","NOZOMI Park","Freedom"],
 ["Sep 10","4:00 PM","AZ College Prep","Chandler High School","Freedom"],
