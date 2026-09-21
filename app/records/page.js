@@ -1,3 +1,4 @@
+export const metadata={title:"Record Book",description:"Desert Vista Swim & Dive school records and top performances across individual events and relays.",alternates:{canonical:"/records"},openGraph:{url:"/records"}};
 const girls={
 "50 Free":[["23.45","Katie Olsen","2009"],["23.66","Holland Stocker","2025"],["24.01","Noelle Lavigne","2016"],["24.02","Clare Luken","2022 *"],["24.21","Madeline Nichols","2013"],["24.40","Mary Geavaras","2011"],["24.50","Erin Baldinger","2001"],["24.53","Anabella Ankeney","2013"],["24.54","Shae Nicolaisen / Ellie Kayser","2016 / 2022 *"],["24.55","Kinsey Miller","2021"]],
 "100 Free":[["51.02","Clare Luken","2023"],["51.04","Marley Spray","2025 *"],["51.52","Holland Stocker","2025"],["52.09","Shae Nicolaisen","2016"],["52.18","Mary Geavaras","2010"],["52.36","Anabella Ankeney","2013"],["52.51","Tinsley Andrews","2006"],["52.51","Erin Spielman","2015"],["52.52","Lauren Torres","2009"],["52.93","Katherine Chelus","2021 *"]],
