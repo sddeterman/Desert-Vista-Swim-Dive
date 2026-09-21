@@ -1,0 +1,2 @@
+export const metadata={title:"Page Not Found",robots:{index:false,follow:true}};
+export default function NotFound(){return <main><section className="pageHero"><p className="eyebrow">404</p><h1>Page not found</h1><p>The page you requested is not available.</p></section><section className="section"><h2>Back to the Thunder</h2><p className="intro">Use the homepage to find schedules, results, records, registration, team news and contact information.</p><div className="actions darkActions"><a className="primary" href="/">Return home</a></div></section></main>}
