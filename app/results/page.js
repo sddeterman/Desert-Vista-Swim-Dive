@@ -1,3 +1,4 @@
+export const metadata={title:"Results",description:"Desert Vista Swim & Dive championship results, state highlights and season results archive.",alternates:{canonical:"/results"},openGraph:{url:"/results"}};
 const results=[
 ["Girls 200 Medley Relay","1st · 1:45.25","Marley Spray · Myra Streit · Sasha Volkova · Holland Stocker","School record"],
 ["Girls 200 Free Relay","2nd","Holland Stocker · Victoria Nguyen · Katarina Plank · Ellie Kayser",""],
