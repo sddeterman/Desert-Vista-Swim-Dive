@@ -1,4 +1,4 @@
 import "./globals.css";
 import SiteHeader from "./components/SiteHeader";
-export const metadata={title:"Desert Vista Swim & Dive | Home of the Thunder",description:"Desert Vista High School Swim & Dive team site."};
+export const metadata={metadataBase:new URL("https://desert-vista-swim-dive-ten.vercel.app"),title:{default:"Desert Vista Swim & Dive | Home of the Thunder",template:"%s | Desert Vista Swim & Dive"},description:"Official season hub for Desert Vista High School Swim & Dive in Phoenix, Arizona — schedules, results, records, registration, team news and gear.",openGraph:{title:"Desert Vista Swim & Dive | Home of the Thunder",description:"Schedules, results, records, registration, team news and gear for Desert Vista High School Swim & Dive.",type:"website",siteName:"Desert Vista Swim & Dive"},robots:{index:true,follow:true}};
 export default function RootLayout({children}){return <html lang="en"><body><SiteHeader/>{children}<footer><strong>DESERT VISTA SWIM & DIVE</strong><span>Home of the Thunder</span><a href="/contact">Contact</a><a href="https://www.instagram.com/dvthunderswimdive/">@dvthunderswimdive</a></footer></body></html>}
