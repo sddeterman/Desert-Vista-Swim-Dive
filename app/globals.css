@@ -6,3 +6,5 @@
 .announcementGrid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.announcement{background:#fff;padding:26px;border-top:4px solid var(--gold)}.announcement small{font-weight:900;color:#936a00;text-transform:uppercase;letter-spacing:.1em}.announcement p{line-height:1.6;color:#536171}.instagramCard{margin-top:42px;border-radius:4px}.storeAddress{margin-top:28px;line-height:1.6}.subhead{margin-top:55px}@media(max-width:800px){.announcementGrid{grid-template-columns:1fr}}
 
 .skipLink{position:absolute;left:16px;top:-60px;z-index:1000;background:#fff;color:#111;padding:12px 16px;font-weight:800;border-radius:4px;box-shadow:0 2px 8px rgba(0,0,0,.25)}.skipLink:focus{top:16px}
+
+:where(a,summary):focus-visible{outline:3px solid var(--gold);outline-offset:3px}.primary:focus-visible,.register:focus-visible{outline-color:#fff}.mobileMenu summary{padding:10px 12px;border-radius:4px}.mobileMenu[open] summary{background:#20344b}
