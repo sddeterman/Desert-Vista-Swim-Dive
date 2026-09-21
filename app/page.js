@@ -1,4 +1,4 @@
-const quick=[["2026 Schedule","/schedule"],["Registration & Clearance","/parents#register"],["Thunder Record Book","/records"],["State Championship Results","/results"],["Meet the Coaches","/team"],["Contact","/contact"]];
+const quick=[["2026 Schedule","/schedule"],["Registration & Clearance","/parents#register"],["Thunder Record Book","/records"],["State Championship Results","/results"],["Meet the Coaches","/team"],["Contact","/contact"],["2026 Team Store","/store"]];
 export default function Home(){return <main>
 <section className="hero"><div className="heroInner"><p className="eyebrow">HOME OF THE THUNDER · 2026 SEASON</p><h1>DESERT VISTA<br/><em>SWIM & DIVE</em></h1><p className="lead">The season hub for Thunder swimmers, divers, families and fans.</p><div className="actions"><a className="primary" href="/parents#register">Registration Hub</a><a className="secondary" href="/schedule">2026 Schedule</a></div></div><div className="wave">DV</div></section>
 <section className="ticker"><b>2026 SEASON</b><span>Team updates, announcements, photos & highlights</span><a href="https://www.instagram.com/dvthunderswimdive/">@dvthunderswimdive →</a></section>
